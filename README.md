@@ -21,3 +21,10 @@
 
 
 * [Courses, Achievements, and Badges]( https://github.com/users/JD101110/projects/5)
+
+
+## Credits
+
+* Many thanks to [Matt](https://github.com/users/ellismj) for graciously allowing me to use his template for this ePortfolio. 
+
+* Visit the [CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or their [LinkedIn page](https://www.linkedin.com/company/cms-cybervets/) and be sure to check out the [course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf) to learn more about the program.
