@@ -13,4 +13,3 @@
 [Wiki](https://github.com/JD101110/ePortfolio/wiki)
 
 
-## Below are some of the [Projects][(https://github.com/JD101110/ePortfolio/projects?type=new)] I have completed or am currently working on.
