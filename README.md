@@ -7,7 +7,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jonte.dalton-463573213/)  
 
 
-### I've been in the Navy for 12 years. I am a Gas Turbine Systems Electrician but am looking to break into the cyber domain.  Aside from a few networking classes I took before joining the military, I don't have any formal training or experience in the field. I enjoy analytical problem solving and learning and really a domain that is ever changing and evolving. 
+### Welcome to my ePortfolio. This repository highlights my foray into the fundamentals of cybersecurity. Aside from a few networking classes I took before joining the military, I don't have any formal training or experience in the field. I enjoy analytical problem solving, critical thinking, and really learning about a field that is ever evolving. 
 
 
 [Wiki](https://github.com/JD101110/ePortfolio/wiki)
