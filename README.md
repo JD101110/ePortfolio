@@ -16,6 +16,7 @@ On my [Wiki](https://github.com/JD101110/ePortfolio/wiki) page you can learn mor
 
 
 * [Courses, Achievements, and Badges]( https://github.com/users/JD101110/projects/5)
+* [Resume](https://github.com/JD101110/ePortfolio/wiki/Resume)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jonte.dalton-463573213/)
 
