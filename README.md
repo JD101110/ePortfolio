@@ -9,8 +9,7 @@
 
 ### Welcome to my ePortfolio. This repository highlights my foray into the fundamentals of cybersecurity. Aside from a few networking classes I took before joining the military, I don't have any formal training or experience in the field. I enjoy analytical problem solving, critical thinking, and really learning about a field that is ever evolving. 
 
-
-[Wiki](https://github.com/JD101110/ePortfolio/wiki)
+On my [Wiki](https://github.com/JD101110/ePortfolio/wiki) page you can learn more about me.
 
 
 ## Below are some of the [Projects](https://github.com/JD101110?tab=projects&type=beta) I have completed or am currently working on.
